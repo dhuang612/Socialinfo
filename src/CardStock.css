@@ -1,0 +1,16 @@
+.ui .container{
+    margin-bottom:-100px;
+   
+    
+}
+
+.ui.segment.pic{
+
+    width:100%;
+    height:300px;
+   
+}
+
+.ui.large.image{
+    background-color:blue;
+}

@@ -1,0 +1,22 @@
+.ui .container{
+    padding-top: 15px;
+   width:100%;
+   height:350px;
+   border-radius:15px;
+}
+.ui .segment{
+    height:300px;
+}
+
+.name{
+ 
+}
+
+
+
+
+.profilepic{
+width: 200px;
+height: 200px;
+border-radius: 15px;
+}
